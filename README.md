@@ -40,4 +40,5 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamPrashSri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamPrashSri&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
