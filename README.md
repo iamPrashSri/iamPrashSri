@@ -38,3 +38,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamPrashSri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
