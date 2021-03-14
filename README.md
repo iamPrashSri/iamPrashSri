@@ -46,3 +46,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-iamprashsri.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact&theme=radical&repo=github-readme-stats" />
 </a>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
