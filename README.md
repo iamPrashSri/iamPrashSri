@@ -44,5 +44,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamPrashSri&include_all_commits=true&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact&theme=radical&repo=github-readme-stats" />
 </a>
