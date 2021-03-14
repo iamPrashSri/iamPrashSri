@@ -47,6 +47,4 @@
   <img align="center" src="https://github-readme-stats-iamprashsri.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact&theme=radical&repo=github-readme-stats" />
 </a>
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
+[![Spotify](https://novatorem-iamprashsri.vercel.app//api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa)
