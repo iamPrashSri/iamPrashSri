@@ -11,6 +11,9 @@
 ✉️ &nbsp;You can shoot me an email at prashantsrivastava.knowledge@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.prashantsrivastava.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
+### :headphones: &nbsp;Currently Listening on Spotify
+[![Spotify](https://novatorem-iamprashsri.vercel.app//api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa)
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/iamPrashSri/iamPrashSri/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,6 +49,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-iamprashsri.vercel.app/api/top-langs/?username=iamPrashSri&layout=compact&theme=radical&repo=github-readme-stats" />
 </a>
-
-### :headphones: &nbsp;Currently Listening on Spotify
-[![Spotify](https://novatorem-iamprashsri.vercel.app//api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa)
