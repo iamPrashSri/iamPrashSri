@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Full Stack Web Development and Distributed Databases.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at prashantsrivastava.knowledge@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.prashantsrivastava.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1o0fKkXFMS1O5brSVCx093oaP6uELUZtE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### :headphones: &nbsp;Currently Listening on Spotify
 [![Spotify](https://novatorem-iamprashsri.vercel.app/api/spotify)](https://open.spotify.com/user/31nmdymq6mwhzylttmd5db5agjwa)
